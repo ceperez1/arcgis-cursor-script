@@ -1,7 +1,7 @@
 print 'Running script....'
 
 #Set up Env
-folderPath = r'\\Mac\Home\Documents\GIS\Geography_173\Test\LabData\LabData'
+folderPath = r'\\Mac\Home\Documents\GIS\data'
 import arcpy
 from arcpy import env
 import os
